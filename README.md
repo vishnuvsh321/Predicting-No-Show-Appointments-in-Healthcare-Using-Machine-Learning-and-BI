@@ -43,9 +43,9 @@ Missed medical appointments cost healthcare systems time, resources, and money. 
   - Logistic Regression 
   - Decision Tree 
   - Random Forest 
-  - XGBoost 
-XGBoost provided the best performance, with the highest accuracy and F1-score. 
+  - XGBoost
 - **Evaluation Metrics**: Accuracy, F1-score
+- XGBoost provided the best performance, with the highest accuracy and F1-score. 
 
 ---
 
