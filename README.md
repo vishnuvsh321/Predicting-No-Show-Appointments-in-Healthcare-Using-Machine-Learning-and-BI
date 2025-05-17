@@ -1,0 +1,2 @@
+# Predicting-No-Show-Appointments-in-Healthcare-Using-Machine-Learning-and-BI
+This project analyzes a Brazilian medical appointment dataset to uncover factors influencing patient no-shows. It includes a machine learning model for prediction and a Power BI dashboard for interactive data visualization and insights. The goal is to support healthcare facilities in reducing missed appointments through data-driven decision-making.
