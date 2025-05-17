@@ -40,8 +40,12 @@ Missed medical appointments cost healthcare systems time, resources, and money. 
 ## 🤖 Machine Learning Models
 
 - **Algorithm Tested**:
-  - Random Forest
-- **Evaluation Metrics**: Accuracy, Precision, Recall, F1-score
+  - Logistic Regression 
+  - Decision Tree 
+  - Random Forest 
+  - XGBoost 
+XGBoost provided the best performance, with the highest accuracy and F1-score. 
+- **Evaluation Metrics**: Accuracy, F1-score
 
 ---
 
